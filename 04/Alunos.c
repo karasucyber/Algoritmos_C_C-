@@ -13,8 +13,6 @@ int main(void){
     media = (nota1 + nota2) / 2;
 
     printf("%.1f", media);
-
-
     if(media >= 6){
         printf("aprovado");
     }else 
