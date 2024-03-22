@@ -5,5 +5,4 @@ section .text
 global _Start
 
 _Start:
-    ; Destiono, origem 
     mov eax, 0x1
