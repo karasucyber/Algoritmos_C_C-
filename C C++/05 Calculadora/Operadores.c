@@ -3,7 +3,6 @@
 float Soma();
 float Multi();
 float Div();
-
 int main() {
     int opcao;
     puts("Opção 1 : Soma");
@@ -29,7 +28,6 @@ int main() {
 
     return 0;
 }
-
 float Soma() {
     float x, y;
     puts("Digite o valor de x:");
@@ -41,7 +39,6 @@ float Soma() {
     float soma = x + y;
     return soma;
 }
-
 float Multi() {
     float x, y;
     puts("Digite o valor de x:");
@@ -53,7 +50,6 @@ float Multi() {
     float multiplicacao = x * y;
     return multiplicacao;
 }
-
 float Div() {
     float x, y;
     puts("Digite o valor de x:");
