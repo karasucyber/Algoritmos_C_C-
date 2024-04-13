@@ -1,7 +1,8 @@
 {
     "files.associations": {
         "stdint.h": "c",
-        "09.C": "cpp"
+        "09.C": "cpp",
+        "10.C": "cpp"
     },
     "C_Cpp.errorSquiggles": "disabled"
 }
